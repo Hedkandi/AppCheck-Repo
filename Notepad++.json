@@ -1,12 +1,12 @@
-[
-  "homepage":"https://apa",
-  "VersionUrl":"asd",
-  "VersionPatterns": [
-    "asd",
-    "asdads"
-  ],
-  "DownloadUrl":"asd",
-  "DownloadPatterns": [
-    "asd"
-   ]
-]
+{
+    "homepage": "https://apa",
+    "VersionUrl": "asd",
+    "VersionPatterns": [
+        "asd",
+        "asdads"
+    ],
+    "DownloadUrl": "asd",
+    "DownloadPatterns": [
+        "asd"
+    ]
+}
