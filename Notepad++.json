@@ -1,12 +1,27 @@
 {
-    "homepage": "https://apa",
-    "VersionUrl": "asd",
-    "VersionPatterns": [
-        "asd",
-        "asdads"
-    ],
-    "DownloadUrl": "asd",
-    "DownloadPatterns": [
-        "asd"
-    ]
+    "homepageUrl": "https://apa",
+    "versionInfo": {
+        "url": "asd",
+        "patterns": [
+            "asd",
+            "asdads"
+        ]
+    },
+    "downloadInfo": {
+        "url": "asd",
+        "patterns": [
+            "asd"
+        ]
+    },
+    "signatureInfo": {
+        "url": "asd",
+        "patterns": [
+            "asd"
+        ]
+    },
+    "installEngine": {
+        "name": "NSIS",
+        "homepageUrl": "",
+        "silentParameters": ""
+    }
 }
