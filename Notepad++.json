@@ -1,13 +1,12 @@
 {
-    "homepageUrl": "https://apa",
-    "author": "",
-    "bitness": "",
+    "homepageUrl": "https://",
+    "author": "Hedkandi",
+    "bitness": "64",
     "versionInfo": {
-        "type": "",
-        "url": "asd",
+        "type": "regex",
+        "url": "https://notepad-plus-plus.org/downloads/",
         "data": [
-            "asd",
-            "asdads"
+            "downloads/v([0-9\.]+)"
         ]
     },
     "downloadInfo": {
@@ -26,7 +25,7 @@
     },
     "installEngine": {
         "name": "NSIS",
-        "homepageUrl": "",
-        "silentParameters": ""
+        "homepageUrl": "https://nsis.sourceforge.io/Main_Page",
+        "silentParameters": "/S"
     }
 }
