@@ -6,7 +6,7 @@
         "type": "regex",
         "url": "https://notepad-plus-plus.org/downloads/",
         "data": [
-            "downloads/v([0-9\\.]+)"
+            "downloads/v([0-9\.]+)"
         ]
     },
     "downloadInfo": {
