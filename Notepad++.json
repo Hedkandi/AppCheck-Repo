@@ -5,7 +5,7 @@
     "versionInfo": {
         "type": "",
         "url": "asd",
-        "patterns": [
+        "data": [
             "asd",
             "asdads"
         ]
@@ -13,14 +13,14 @@
     "downloadInfo": {
         "type": "",
         "url": "asd",
-        "patterns": [
+        "data": [
             "asd"
         ]
     },
     "signatureInfo": {
         "type": "",
         "url": "asd",
-        "patterns": [
+        "data": [
             "asd"
         ]
     },
