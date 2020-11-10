@@ -4,8 +4,11 @@
     "arch": "x86_64",
     "version": {
         "type": "github",
-        "owner": "notepad-plus-plus",
-        "repository": "notepad-plus-plus"
+        "url": "",
+        "data": [
+            "notepad-plus-plus",
+            "notepad-plus-plus"
+        ]
     },
     "download": {
         "type": "",
