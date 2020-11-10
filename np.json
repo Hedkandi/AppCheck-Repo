@@ -4,11 +4,6 @@
     "arch": "x86_64",
     "version": {
         "type": "github",
-        "url": "",
-        "data": [
-            "notepad-plus-plus",
-            "notepad-plus-plus"
-        ],
         "owner": "notepad-plus-plus",
         "repository": "notepad-plus-plus"
     },
@@ -19,11 +14,11 @@
             "asd"
         ],
         "signature": {
-           "type": "",
-           "url": "asd",
-           "data": [
-            "asd"
-           ]
+            "type": "",
+            "url": "asd",
+            "data": [
+                "asd"
+            ]
         }
     },
     "installEngine": {
