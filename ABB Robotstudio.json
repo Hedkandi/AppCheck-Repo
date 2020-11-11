@@ -1,0 +1,33 @@
+{
+    "id": "abb_robotstudio-1.0",
+    "name": "ABB Robotstudio",
+    "homepageUrl": "https://new.abb.com/products/robotics/robotstudio",
+    "releasenotes": "https://share.library.abb.com/api/v4?cid=9AAC206206&q=%20What%27s%20New%20RobotStudio",
+    "author": "ABB",
+    "appcheckauthor": "Hedkandi",
+    "arch": "x86_64",
+    "version": {
+        "type": "regex",
+        "url": "https://new.abb.com/products/robotics/en/robotstudio/downloads",
+        "data": [
+            "RobotStudio ([0-9\\.]+)"
+        ]
+    },
+    "download": {
+        "type": "regex",
+        "url": "https://new.abb.com/products/robotics/en/robotstudio/downloads",
+        "data": [
+            "(https://robotstudiocdn.azureedge.net/install/RobotStudio.[0-9\\.]+.zip)"
+        ],
+        "signature": {
+           "type": "",
+           "url": "",
+           "data": []
+        }
+    },
+    "installEngine": {
+        "name": "InstallShield",
+        "homepageUrl": "https://community.flexera.com/t5/InstallShield/ct-p/InstallShield",
+        "silentParameters": ""
+    }
+}
