@@ -1,5 +1,6 @@
 {
     "id": "unique1",
+    "name": "7-Zip",
     "homepageUrl": "http://www.7-zip.org/",
     "author": "Hedkandi",
     "arch": "x86_64",
