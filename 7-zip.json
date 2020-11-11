@@ -1,0 +1,32 @@
+{
+    "id": "unique1",
+    "homepageUrl": "http://www.7-zip.org/",
+    "author": "Hedkandi",
+    "arch": "x86_64",
+    "version": {
+        "type": "regex",
+        "url": "https://www.7-zip.org/download.html",
+        "data": [
+            "Download 7-Zip ([0-9\\.]+)"
+        ]
+    },
+    "download": {
+        "type": "regex",
+        "url": "https://www.7-zip.org/download.html",
+        "data": [
+            "href=\"a/7z[0-9]{4}-x64.msi\""
+        ],
+        "signature": {
+           "type": "",
+           "url": "asd",
+           "data": [
+            "asd"
+           ]
+        }
+    },
+    "installEngine": {
+        "name": "NSIS",
+        "homepageUrl": "https://nsis.sourceforge.io/Main_Page",
+        "silentParameters": "/S"
+    }
+}
