@@ -2,6 +2,7 @@
     "id": "unique1",
     "name": "Notepad++",
     "homepageUrl": "https://notepad-plus-plus.org/",
+    "releasenotes": "https://notepad-plus-plus.org/news/",
     "author": "Hedkandi",
     "arch": "x86_64",
     "version": {
