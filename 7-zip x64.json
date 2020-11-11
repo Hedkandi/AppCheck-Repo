@@ -2,6 +2,8 @@
     "id": "unique1",
     "name": "7-Zip",
     "homepageUrl": "http://www.7-zip.org/",
+    "releasenotes": "https://www.7-zip.org/history.txt",
+    "manufacturer": "Igor Pavlov",
     "author": "Hedkandi",
     "arch": "x86_64",
     "version": {
