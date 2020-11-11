@@ -3,7 +3,8 @@
     "name": "Notepad++",
     "homepageUrl": "https://notepad-plus-plus.org/",
     "releasenotes": "https://notepad-plus-plus.org/news/",
-    "author": "Hedkandi",
+    "author": "Don Ho",
+    "appcheckauthor": "Hedkandi",
     "arch": "x86_64",
     "version": {
         "type": "regex",
