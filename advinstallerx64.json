@@ -1,0 +1,35 @@
+{
+    "id": "advanced-installer-msi-x64",
+    "name": "Advanced Installer",
+    "homepageUrl": "https://www.advancedinstaller.com/",
+    "releasenotes": "https://www.advancedinstaller.com/version-history.html",
+    "author": "Caphyon",
+    "appcheckauthor": "Hedkandi",
+    "arch": "x86_64",
+    "version": {
+        "type": "regex",
+        "url": "https://www.advancedinstaller.com/download.html",
+        "data": [
+            "Release Notes for Advanced Installer ([0-9\\.]+)"
+        ]
+    },
+    "download": {
+        "type": "direct",
+        "url": "https://www.advancedinstaller.com/downloads/advinst.msi",
+        "data": [
+            ""
+        ],
+        "signature": {
+           "type": "",
+           "url": "asd",
+           "data": [
+            "asd"
+           ]
+        }
+    },
+    "installEngine": {
+        "name": "MSI",
+        "homepageUrl": "https://docs.microsoft.com/en-us/windows/win32/msi/windows-installer-portal",
+        "silentParameters": "/qn /norestart"
+    }
+}
