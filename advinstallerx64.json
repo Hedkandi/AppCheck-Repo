@@ -5,6 +5,8 @@
     "releasenotes": "https://www.advancedinstaller.com/version-history.html",
     "author": "Caphyon",
     "appcheckauthor": "Hedkandi",
+    "winget-id": "",
+    "chocolatey-id": "advanced-installer",
     "arch": "x86_64",
     "version": {
         "type": "regex",
