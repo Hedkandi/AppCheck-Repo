@@ -5,6 +5,8 @@
     "releasenotes": "https://share.library.abb.com/api/v4?cid=9AAC206206&q=%20What%27s%20New%20RobotStudio",
     "author": "ABB",
     "appcheckauthor": "Hedkandi",
+    "winget-id": "",
+    "chocolatey-id": "",
     "arch": "x86_64",
     "version": {
         "type": "regex",
