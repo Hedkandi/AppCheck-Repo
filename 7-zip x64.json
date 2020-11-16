@@ -1,10 +1,12 @@
 {
-    "id": "unique1",
+    "id": "7zip-x64-msi",
     "name": "7-Zip",
     "homepageUrl": "http://www.7-zip.org/",
     "releasenotes": "https://www.7-zip.org/history.txt",
     "author": "Igor Pavlov",
     "appcheckauthor": "Hedkandi",
+    "winget-id": "7zip.7zip",
+    "chocolatey-id": "7zip",
     "arch": "x86_64",
     "version": {
         "type": "regex",
