@@ -5,6 +5,8 @@
     "releasenotes": "https://notepad-plus-plus.org/news/",
     "author": "Don Ho",
     "appcheckauthor": "Hedkandi",
+    "winget-id": "Notepad++.Notepad++",
+    "chocolatey-id": "notepadplusplus",
     "arch": "x86_64",
     "version": {
         "type": "regex",
